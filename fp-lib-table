@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SD-Slot")(type "KiCad")(uri "${KIPRJMOD}/SD-Slot.pretty")(options "")(descr ""))
+)
