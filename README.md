@@ -7,4 +7,13 @@ When ordering this interposer, don't forget to select the `Half-cut/Castellated 
 
 
 
+## How to use
+
+There are Tutorials on gbatemp:
+
+- Rebuild mlc: https://gbatemp.net/threads/how-to-upgrading-rebuilding-wii-u-internal-memory-mlc.636309/
+- Clone mlc: https://gbatemp.net/threads/using-nand-aid-to-repair-a-broken-emmc-fix-160-0103-system-memory-error.636361/
+
+
+
 ![mlc2sd](WiiU-SD-Interposer.png)
