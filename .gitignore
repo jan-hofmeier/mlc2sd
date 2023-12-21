@@ -17,6 +17,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 WiiU-SD-Interposer.kicad_pcb.zip
+*.lck
 
 # Netlist files (exported from Eeschema)
 *.net
