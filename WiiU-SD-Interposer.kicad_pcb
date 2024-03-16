@@ -661,7 +661,7 @@
   (gr_text "gbatemp.net/threads/636309" (at 124.6 102.9) (layer "F.SilkS") (tstamp 13cebe71-3bc1-4ce0-8a63-d664522b98a2)
     (effects (font (size 0.5 0.5) (thickness 0.1) bold) (justify left bottom))
   )
-  (gr_text "Rev. 1.1" (at 127.05 99.85) (layer "F.SilkS") (tstamp 66b09a1c-3690-44b4-af01-d9e0187dcf07)
+  (gr_text "Rev. 1.2" (at 127.05 99.85) (layer "F.SilkS") (tstamp 66b09a1c-3690-44b4-af01-d9e0187dcf07)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "-->" (at 134.6 89.2) (layer "F.SilkS") (tstamp 7bdde4b0-be9a-4960-b695-73babd176f1d)
