@@ -658,7 +658,7 @@
   (gr_text "MLC2SD" (at 139.4 81.4 90) (layer "B.SilkS") (tstamp 1984054f-c7a4-49b8-86f1-1a3934f2b392)
     (effects (font (size 4 4) (thickness 1) bold) (justify left bottom mirror))
   )
-  (gr_text "gbatemp.net/threads/636309" (at 124.6 102.9) (layer "F.SilkS") (tstamp 13cebe71-3bc1-4ce0-8a63-d664522b98a2)
+  (gr_text "gbatemp.net/threads/651917" (at 124.6 102.9) (layer "F.SilkS") (tstamp 13cebe71-3bc1-4ce0-8a63-d664522b98a2)
     (effects (font (size 0.5 0.5) (thickness 0.1) bold) (justify left bottom))
   )
   (gr_text "Rev. 1.2" (at 127.05 99.85) (layer "F.SilkS") (tstamp 66b09a1c-3690-44b4-af01-d9e0187dcf07)
