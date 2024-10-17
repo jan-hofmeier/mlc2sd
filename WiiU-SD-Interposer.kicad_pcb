@@ -2430,39 +2430,6 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "Eco1.User")
-		(uuid "0245aec5-bb93-4960-ab6a-e3c07b24f245")
-		(pts
-			(xy 131.2 82.6) (xy 133 82.6)
-		)
-		(height -7.3)
-		(gr_text "1,8000 mm"
-			(at 132.1 74.15 0)
-			(layer "Eco1.User")
-			(uuid "0245aec5-bb93-4960-ab6a-e3c07b24f245")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.15)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
 		(layer "User.1")
 		(uuid "16e7cfbf-b110-4b1e-b83c-f55c71c6b949")
 		(pts
